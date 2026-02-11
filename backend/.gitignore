@@ -1,0 +1,13 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Mac
+.DS_Store
+
+# Alembic cache
+alembic/__pycache__/
